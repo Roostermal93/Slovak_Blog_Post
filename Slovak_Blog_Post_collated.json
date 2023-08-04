@@ -1,0 +1,35 @@
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "9ac36623-1051-4632-918c-750c3475c197",
+            "collectionId": "Slovak",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Slovak/Slovak_Blog_Post/9ac36623-1051-4632-918c-750c3475c197/9ac36623-1051-4632-918c-750c3475c197_sk_Female.mp4"
+        },
+        {
+            "id": "6071ac3d-2379-47fb-9038-d92b3bf4a12b",
+            "collectionId": "Slovak",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Slovak/Slovak_Blog_Post/6071ac3d-2379-47fb-9038-d92b3bf4a12b/6071ac3d-2379-47fb-9038-d92b3bf4a12b_sk_Female.mp4"
+        },
+        {
+            "id": "f6ade9ef-0aed-4d6a-b769-b285151c02a0",
+            "collectionId": "Slovak",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Slovak/Slovak_Blog_Post/f6ade9ef-0aed-4d6a-b769-b285151c02a0/f6ade9ef-0aed-4d6a-b769-b285151c02a0_sk_Female.mp4"
+        },
+        {
+            "id": "f04dc180-be0e-484a-91c6-ebbd8f12b9b7",
+            "collectionId": "Slovak",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Slovak/Slovak_Blog_Post/f04dc180-be0e-484a-91c6-ebbd8f12b9b7/f04dc180-be0e-484a-91c6-ebbd8f12b9b7_sk_Female.mp4"
+        }
+    ]
+}
